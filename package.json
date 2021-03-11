@@ -75,7 +75,7 @@
     "gh-pages": "^2.2.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^4.0.3",
     "rollup": "^1.32.0",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
@@ -89,15 +89,16 @@
     "dist"
   ],
   "dependencies": {
-    "prop-types": "^15.7.2",
     "@wojtekmaj/react-daterange-picker": "^2.5.0",
     "@wojtekmaj/react-datetimerange-picker": "^2.4.0",
     "@wojtekmaj/react-timerange-picker": "^2.4.0",
+    "prop-types": "^15.7.2",
     "react-calendar": "^2.19.2",
     "react-clock": "^2.4.0",
     "react-date-picker": "^7.10.0",
     "react-datetime-picker": "^2.9.0",
     "react-pdf": "^4.1.0",
+    "react-tempusdominus-bootstrap": "^1.10.0",
     "react-time-picker": "^3.9.0"
   }
 }
